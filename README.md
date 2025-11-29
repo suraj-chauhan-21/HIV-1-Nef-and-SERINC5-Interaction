@@ -1,7 +1,7 @@
 # HIV-1-Nef-and-SERINC5-Interaction
 This project investigates the interaction between HIV-1 Nef and SERINC5. The aim is to simulate data, test hypotheses, and present findings. Key elements include data simulation, code, graphs, a proposed hypothesis, and results.
 
-**Objective: **
+**Objective:**
 To investigate the impact of altered CD3G expression in T lymphocytes on immune function and its
 potential implications in the context of viral infections, specifically HIV-1
 
