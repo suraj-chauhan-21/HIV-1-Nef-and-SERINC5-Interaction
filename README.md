@@ -1,13 +1,16 @@
 # HIV-1-Nef-and-SERINC5-Interaction
 This project investigates the interaction between HIV-1 Nef and SERINC5. The aim is to simulate data, test hypotheses, and present findings. Key elements include data simulation, code, graphs, a proposed hypothesis, and results.
+
 **Objective: **
 To investigate the impact of altered CD3G expression in T lymphocytes on immune function and its
 potential implications in the context of viral infections, specifically HIV-1
+
 **Hypothesis:**
 Higher CD3G expression in T lymphocytes leads to enhanced T cell receptor (TCR) signaling and
 augmented T cell activation (Enhanced TCR Signaling Hypothesis / Augmented T Cell Activation Hypothesis).
 This heightened activation state may indirectly influence the host-virus interaction, particularly concerning the
 antiviral restriction factor SERINC5 and its counteraction by viral proteins like HIV-1 Nef.
+
 
 **Rationale:**
 CD3G is a crucial component of the TCR-CD3 complex, essential for initiating T cell activation
